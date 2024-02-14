@@ -3,8 +3,8 @@
 
 - 💬 Ask me about **Python , C++**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="left">Connect with me: </h3>
+<p align="left">25023@arsd.du.ac.in
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
